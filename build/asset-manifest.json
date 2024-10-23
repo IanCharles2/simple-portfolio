@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b16286d0.css",
+    "main.js": "/static/js/main.6961f0a0.js",
+    "static/media/my portfolio.png": "/static/media/my portfolio.430e43381f87687cf723.png",
+    "static/media/about.jpg": "/static/media/about.16aed27bebe9558fa810.jpg",
+    "static/media/ian resume.pdf": "/static/media/ian resume.44f33bb829e6ebc470a7.pdf",
+    "static/media/ian.jpg": "/static/media/ian.4041334b944093eee03e.jpg",
+    "static/media/lol-logo.png": "/static/media/lol-logo.7c465aac062320a32c45.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.b16286d0.css.map": "/static/css/main.b16286d0.css.map",
+    "main.6961f0a0.js.map": "/static/js/main.6961f0a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b16286d0.css",
+    "static/js/main.6961f0a0.js"
+  ]
+}
